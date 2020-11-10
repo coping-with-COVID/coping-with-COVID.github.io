@@ -40,7 +40,7 @@ Some mockup pages include:
 
 I am unsure how this can be implemented but down below is ideas I hope can improve the app:
   - Direct access to professionals that can assist student’s mental state
-    -I t be cool with this could somehow connect with UH’s counseling center
+    - It be cool with this could somehow connect with UH’s counseling center
   - Somehow per user have old messages saved. So user can look back at them.
   - Daily check in
     - Ex: Mood Tracker, but there can be a calender will user can see logged mood.
