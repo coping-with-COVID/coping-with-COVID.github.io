@@ -4,6 +4,7 @@
 * [Approach](#approach)
 * [Use case ideas](#use-case-ideas)
 * [More Advanced Ideas](#more-advanced-ideas)
+* [Team Members](#team-members)
 
 ## Overview
 
@@ -44,4 +45,10 @@ I am unsure how this can be implemented but down below is ideas I hope can impro
   - Somehow per user have old messages saved. So user can look back at them.
   - Daily check in
     - Ex: Mood Tracker, but there can be a calender will user can see logged mood.
-    
+
+## Team Members
+
+- Chris Dang
+- Chak Hon Lam
+- Guanhong Li
+- Li Liang
