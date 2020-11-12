@@ -38,12 +38,15 @@ Some mockup pages include:
 
 ## History
 
-Basically this app will help students cope with distressing issues they are facing. Students will use the bot to vent/talk about their day. The main landing page of the app will contain general information about the chat bot and mental health resources link. How the bot would work would be:
+Our original idea for the site was to develope a chat bot that could chat and comfort the user.
+How the bot would work would be:
 
 - the bot will prompt a topic for conversation.
   - Ex: “ Pineapple on Pizza? Yay! Or Nay?
 - Using follow-ups to facilitate responses.
   - The chat bot will identify keywords students use to suggest articles or videos on how to help comfort the student better.
+  
+We decided against the chat bot, because we do not have the skill to make the chat bot be interactive enough that it feels "human". The chat function would be too simple and robtic for the user to feel comfort, which defeats the purpose.
 
 ## Use case ideas
 
