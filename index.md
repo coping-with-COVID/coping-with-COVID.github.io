@@ -28,7 +28,7 @@ Some mockup pages include:
 
 - Landing page
 
-<img src="doc/landing.png">
+<img src="doc/landing.jpg">
 
 - Daily discussion Page
 - User home page
