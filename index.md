@@ -66,8 +66,8 @@ We are unsure how this can be implemented but down below is ideas we hope can im
  
  - Inspect MongoDB
  
+ <img src="doc/3.png">
+ 
+ - Monitoring the application perfomace
+ 
  <img src="doc/2.PNG">
- 
- -Monitoring the application perfomace
- 
- <img src="doc/3.PNG">
