@@ -74,6 +74,6 @@ We are unsure how this can be implemented but down below is ideas we hope can im
  <img src="doc/2.PNG">
  
  - mockup pages
-  <img src="doc/4.PNG">
-   <img src="doc/5.PNG">
-    <img src="doc/6.PNG">
+  <img src="doc/4.png">
+   <img src="doc/5.png">
+    <img src="doc/6.png">
