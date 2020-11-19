@@ -24,12 +24,6 @@ Solution: We propose to create a mental health chat bot that can give students e
 
 We want to help students reach out during the COVID-19 pandemic and to cope with the distressing issues they are facing. Students will use the site to vent/talk about their day. To accompish this, our site would suggest a daily topic and users could discuss and share their thoughts around the topic for the day. We would identify keywords students uses in their post and sent out automatic replies that suggest articles or videos that would help comfort the student and make them feel better.
 
-Some mockup pages include:
-
-- Landing page
-
-<img src="doc/landing.jpg">
-
 - Daily discussion Page
 - User home page
 - FAQ page
@@ -63,3 +57,17 @@ We are unsure how this can be implemented but down below is ideas we hope can im
   - Somehow per user have old messages saved. So user can look back at them.
   - Daily check in
     - Ex: Mood Tracker, but there can be a calender will user can see logged mood.
+    
+ ## Milestone 1
+ 
+ - deploy the final project to digit ocean
+ 
+ <img src="doc/1.PNG">
+ 
+ - Inspect MongoDB
+ 
+ <img src="doc/2.PNG">
+ 
+ -Monitoring the application perfomace
+ 
+ <img src="doc/3.PNG">
