@@ -82,4 +82,8 @@ We are unsure how this can be implemented but down below is ideas we hope can im
 
 - <a href="https://github.com/coping-with-covid">GitHub organization for the project</a>
 
-- <a href="http://143.110.232.78/#/">Coping with COVID home page</a>
+- <a href="http://143.110.232.78/#/">Coping with COVID Home page</a>
+
+- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/1">Milestone 1 page</a>
+
+- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/2">Milestone 2 page</a>
