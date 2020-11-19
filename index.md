@@ -6,6 +6,7 @@
 * [History](#History)
 * [Use case ideas](#use-case-ideas)
 * [More Advanced Ideas](#more-advanced-ideas)
+* [Milstone 1](#milestone-1)
 
 ## Team Members
 
@@ -58,7 +59,7 @@ We are unsure how this can be implemented but down below is ideas we hope can im
   - Daily check in
     - Ex: Mood Tracker, but there can be a calender will user can see logged mood.
     
- ## Milestone 1
+## Milestone 1
  
  - deploy the final project to digit ocean
  
@@ -71,3 +72,8 @@ We are unsure how this can be implemented but down below is ideas we hope can im
  - Monitoring the application perfomace
  
  <img src="doc/2.PNG">
+ 
+ - mockup pages
+  <img src="doc/4.PNG">
+   <img src="doc/5.PNG">
+    <img src="doc/6.PNG">
