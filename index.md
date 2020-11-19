@@ -81,3 +81,5 @@ We are unsure how this can be implemented but down below is ideas we hope can im
 ## Related URL
 
 - <a href="https://github.com/coping-with-covid">GitHub organization for the project</a>
+
+- <a href="http://143.110.232.78/#/">Coping with COVID home page</a>
