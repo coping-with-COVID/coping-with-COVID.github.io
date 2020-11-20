@@ -15,7 +15,7 @@
 * [Approach](#approach)
 * [Use case ideas](#use-case-ideas)
 * [History](#History)
-* [Milstone 1](#milestone-1)
+* [Milestone 1](#milestone-1)
 * [More Advanced Ideas](#more-advanced-ideas)
 * [Installation](#installation)
 
@@ -34,7 +34,7 @@ Solution: We propose to create a mental health chat bot that can give students e
 
 ## Approach
 
-We want to help students reach out during the COVID-19 pandemic and to cope with the distressing issues they are facing. Students will use the site to vent/talk about their day. To accompish this, our site would suggest a daily topic and users could discuss and share their thoughts around the topic for the day. We would identify keywords students uses in their post and sent out automatic replies that suggest articles or videos that would help comfort the student and make them feel better.
+We want to help students reach out during the COVID-19 pandemic and to cope with the distressing issues they are facing. Students will use the site to vent/talk about their day. To accomplish this, our site would suggest a daily topic and users could discuss and share their thoughts around the topic for the day. We would identify keywords students uses in their post and sent out automatic replies that suggest articles or videos that would help comfort the student and make them feel better.
 
 - Daily discussion Page
 - User home page
@@ -45,43 +45,57 @@ We want to help students reach out during the COVID-19 pandemic and to cope with
 ## Use case ideas
 
 - New user goes to landing page, logs in, gets home page, sets up profile.
-- The Admin goes to landing page, logs in, gets home page, can edits site and update chatbot.
-- User goes to landing page, logs in, get to home page and goes FAQ to requests ways to improve bot.
-- User goes to landing page, logs in, gets to home page, go to Talk to Bot Page can start chat with bot.
+- The Admin goes to landing page, logs in, gets home page, can edit site and update posts.
+- User goes to landing page, logs in, get to home page and goes to Daily Discussion Page to post posts.
 
 ## History
 
-Our original idea for the site was to develope a chat bot that could chat and comfort the user.
+Our original idea for the site was to develop a chat bot that could chat and comfort the user.
 How the bot would work would be:
 
 - the bot will prompt a topic for conversation.
   - Ex: “ Pineapple on Pizza? Yay! Or Nay?
 - Using follow-ups to facilitate responses.
   - The chat bot will identify keywords students use to suggest articles or videos on how to help comfort the student better.
-  
-We decided against the chat bot, because we do not have the skill to make the chat bot be interactive enough that it feels "human". The chat function would be too simple and robtic for the user to feel comfort, which defeats the purpose.
+
+We decided against the chat bot, because we do not have the skill to make the chat bot be interactive enough that it feels "human". The chat function would be too simple and robotic for the user to feel comfort, which defeats the purpose.
 
 ## Milestone 1
- 
- - Deployed project to digit ocean
- <img src="doc/1.PNG">
- <a href="http://143.110.232.78/#/">Coping with COVID Landing page</a>
- 
- - Inspect MongoDB
- 
- <img src="doc/3.png">
- 
- - Monitoring the application perfomace
- 
- <img src="doc/2.PNG">
- 
- - Mockup pages
-  <img src="doc/7.png">
-  <img src="doc/4.png">
-  <img src="doc/5.png">
-  <img src="doc/6.png">
-  <img src="doc/profile.png">
 
+- Deployed project to digit ocean
+<img src="doc/1.PNG">
+<a href="http://143.110.232.78/#/">Coping with COVID Landing page</a>
+
+- Inspect MongoDB
+
+<img src="doc/3.png">
+
+- Monitoring the application performance
+
+<img src="doc/2.PNG">
+
+- Mockup pages
+<img src="doc/7.png">
+<img src="doc/4.png">
+<img src="doc/5.png">
+<img src="doc/6.png">
+<img src="doc/profile.png">
+
+- Active pages
+[Landing Page](http://143.110.232.78/#/)
+<img src="landingfaq.jpg">
+
+[Sign In Page](http://143.110.232.78/#/signin)
+<img src="login.jpg">
+
+[Sign Up Page](http://143.110.232.78/#/signup)
+<img src="signup.jpg">
+
+[Profile Page](http://143.110.232.78/#/profile)
+<img src="profilepage.jpg">
+
+[Edit Profile Page](http://143.110.232.78/#/profile)
+<img src="editprofile.jpg">
 
 ## More Advanced Ideas
 
@@ -91,7 +105,7 @@ We are unsure how this can be implemented but down below is ideas we hope can im
   - Somehow per user have old messages saved. So user can look back at them.
   - Daily check in
     - Ex: Mood Tracker, but there can be a calender will user can see logged mood.
-        
+
 ## Installation
 First, install [Meteor](https://www.meteor.com/install).
 
