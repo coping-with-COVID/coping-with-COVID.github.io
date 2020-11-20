@@ -6,7 +6,7 @@
 
 - <a href="https://github.com/coping-with-covid/coping-with-covid/projects/1">Milestone 1 page</a>
 
-- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/2">Milestone 2 page</a>
+- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/3">Milestone 2 page</a>
 
 ## Table of contents
 
