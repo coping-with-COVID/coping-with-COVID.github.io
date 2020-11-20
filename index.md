@@ -1,4 +1,4 @@
-## Related URL
+## Related URLs
 
 - <a href="https://github.com/coping-with-covid">GitHub organization for the project</a>
 
