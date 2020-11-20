@@ -1,12 +1,22 @@
+## Related URL
+
+- <a href="https://github.com/coping-with-covid">GitHub organization for the project</a>
+
+- <a href="http://143.110.232.78/#/">Coping with COVID Landing page</a>
+
+- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/1">Milestone 1 page</a>
+
+- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/2">Milestone 2 page</a>
+
 ## Table of contents
 
 * [Team Members](#team-members)
 * [Overview](#overview)
 * [Approach](#approach)
-* [History](#History)
 * [Use case ideas](#use-case-ideas)
-* [More Advanced Ideas](#more-advanced-ideas)
+* [History](#History)
 * [Milstone 1](#milestone-1)
+* [More Advanced Ideas](#more-advanced-ideas)
 
 ## Team Members
 
@@ -31,6 +41,13 @@ We want to help students reach out during the COVID-19 pandemic and to cope with
 - Admin home page
 - User profile page
 
+## Use case ideas
+
+- New user goes to landing page, logs in, gets home page, sets up profile.
+- The Admin goes to landing page, logs in, gets home page, can edits site and update chatbot.
+- User goes to landing page, logs in, get to home page and goes FAQ to requests ways to improve bot.
+- User goes to landing page, logs in, gets to home page, go to Talk to Bot Page can start chat with bot.
+
 ## History
 
 Our original idea for the site was to develope a chat bot that could chat and comfort the user.
@@ -43,25 +60,9 @@ How the bot would work would be:
   
 We decided against the chat bot, because we do not have the skill to make the chat bot be interactive enough that it feels "human". The chat function would be too simple and robtic for the user to feel comfort, which defeats the purpose.
 
-## Use case ideas
-
-- New user goes to landing page, logs in, gets home page, sets up profile.
-- The Admin goes to landing page, logs in, gets home page, can edits site and update chatbot.
-- User goes to landing page, logs in, get to home page and goes FAQ to requests ways to improve bot.
-- User goes to landing page, logs in, gets to home page, go to Talk to Bot Page can start chat with bot.
-
-## More Advanced Ideas
-
-We are unsure how this can be implemented but down below is ideas we hope can improve the app:
-  - Direct access to professionals that can assist student’s mental state
-    - It be cool with this could somehow connect with UH’s counseling center
-  - Somehow per user have old messages saved. So user can look back at them.
-  - Daily check in
-    - Ex: Mood Tracker, but there can be a calender will user can see logged mood.
-    
 ## Milestone 1
  
- - deploy the final project to digit ocean
+ - Deployed project to digit ocean
  
  <img src="doc/1.PNG">
  
@@ -73,18 +74,19 @@ We are unsure how this can be implemented but down below is ideas we hope can im
  
  <img src="doc/2.PNG">
  
- - mockup pages
+ - Mockup pages
   <img src="doc/7.png">
   <img src="doc/4.png">
-   <img src="doc/5.png">
-    <img src="doc/6.png">
-    
-## Related URL
+  <img src="doc/5.png">
+  <img src="doc/6.png">
 
-- <a href="https://github.com/coping-with-covid">GitHub organization for the project</a>
 
-- <a href="http://143.110.232.78/#/">Coping with COVID Home page</a>
+## More Advanced Ideas
 
-- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/1">Milestone 1 page</a>
-
-- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/2">Milestone 2 page</a>
+We are unsure how this can be implemented but down below is ideas we hope can improve the app:
+  - Direct access to professionals that can assist student’s mental state
+    - It be cool with this could somehow connect with UH’s counseling center
+  - Somehow per user have old messages saved. So user can look back at them.
+  - Daily check in
+    - Ex: Mood Tracker, but there can be a calender will user can see logged mood.
+        
