@@ -63,8 +63,8 @@ We decided against the chat bot, because we do not have the skill to make the ch
 ## Milestone 1
  
  - Deployed project to digit ocean
- <a href="http://143.110.232.78/#/">Coping with COVID Landing page</a>
  <img src="doc/1.PNG">
+ <a href="http://143.110.232.78/#/">Coping with COVID Landing page</a>
  
  - Inspect MongoDB
  
