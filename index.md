@@ -76,9 +76,13 @@ We decided against the chat bot, because we do not have the skill to make the ch
 
 - Mockup pages
 <img src="doc/7.png">
+
 <img src="doc/4.png">
+
 <img src="doc/5.png">
+
 <img src="doc/6.png">
+
 <img src="doc/profile.png">
 
 - Active pages
