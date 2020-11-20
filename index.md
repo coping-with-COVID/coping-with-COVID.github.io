@@ -83,19 +83,19 @@ We decided against the chat bot, because we do not have the skill to make the ch
 
 - Active pages
 [Landing Page](http://143.110.232.78/#/)
-<img src="landingfaq.jpg">
+<img src="doc/landingfaq.jpg">
 
 [Sign In Page](http://143.110.232.78/#/signin)
-<img src="login.jpg">
+<img src="doc/login.JPG">
 
 [Sign Up Page](http://143.110.232.78/#/signup)
-<img src="signup.jpg">
+<img src="doc/signup.JPG">
 
 [Profile Page](http://143.110.232.78/#/profile)
-<img src="profilepage.jpg">
+<img src="doc/profilepage.JPG">
 
 [Edit Profile Page](http://143.110.232.78/#/profile)
-<img src="editprofile.jpg">
+<img src="doc/editprofile.JPG">
 
 ## More Advanced Ideas
 
