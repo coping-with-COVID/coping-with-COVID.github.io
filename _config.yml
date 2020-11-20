@@ -1,7 +1,5 @@
 title: Coping with COVID
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 github:
   is_project_page: true
   repository_url: https://github.com/coping-with-covid/coping-with-covid
-gems:
-  - jekyll-mentions
