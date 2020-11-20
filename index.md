@@ -17,6 +17,7 @@
 * [History](#History)
 * [Milstone 1](#milestone-1)
 * [More Advanced Ideas](#more-advanced-ideas)
+* [Installation](#installation)
 
 ## Team Members
 
@@ -91,3 +92,15 @@ We are unsure how this can be implemented but down below is ideas we hope can im
   - Daily check in
     - Ex: Mood Tracker, but there can be a calender will user can see logged mood.
         
+## Installation
+First, install [Meteor](https://www.meteor.com/install).
+
+Second, download a copy of coping-with-covid.
+
+Third, cd into the app directory and install the required libraries with:
+````$ meteor npm install````
+Once the libraries are installed, you can run the app by invoking:
+````$ meteor npm run start````
+The first time you run the app, it will create some default users and profiles.
+You can safely ignore the bcrypt warning.
+If all goes well, Coping with COVID will appear at http://localhost:3000/. You can login using the credentials in settings.development.json, or else register a new account.
