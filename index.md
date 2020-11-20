@@ -79,6 +79,7 @@ We decided against the chat bot, because we do not have the skill to make the ch
   <img src="doc/4.png">
   <img src="doc/5.png">
   <img src="doc/6.png">
+  <img src="doc/profile.png">
 
 
 ## More Advanced Ideas
