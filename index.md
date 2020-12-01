@@ -18,7 +18,7 @@
 * [Overview](#overview)
 * [Approach](#approach)
 * [Use case ideas](#use-case-ideas)
-* [Development History](#developemtn-history)
+* [Development History](#developement-history)
 * [More Advanced Ideas](#more-advanced-ideas)
 * [Installation](#installation)
 
