@@ -109,23 +109,23 @@ We decided against the chat bot, because we do not have the skill to make the ch
 
 ### Milestone 2
 
--[Lnding Page]()
+- [Lnding Page]()
 
--[Signin Page]()
+- [Signin Page]()
 
--[SignUp Page]()
+- [SignUp Page]()
 
--[Home Page]()
+- [Home Page]()
 
--[Forum Page]()
+- [Forum Page]()
 
--[COVID-19 Website]()
+- [COVID-19 Website]()
 
--[FAQ Page]()
+- [FAQ Page]()
 
--[Profile]()
+- [Profile]()
 
--[Updata Profile]()
+- [Updata Profile]()
 
 
 ## User Guide
