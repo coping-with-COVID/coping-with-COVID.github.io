@@ -108,6 +108,9 @@ We decided against the chat bot, because we do not have the skill to make the ch
 
 ## Milestone 2
 
+
+## User Giude
+
 ## More Advanced Ideas
 
 We are unsure how this can be implemented but down below is ideas we hope can improve the app:
