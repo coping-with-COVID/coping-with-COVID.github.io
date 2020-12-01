@@ -8,6 +8,8 @@
 
 - <a href="https://github.com/coping-with-covid/coping-with-covid/projects/3">Milestone 2 page</a>
 
+- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/4">Milestone 3 page</a>
+
 ## Table of contents
 
 * [Team Members](#team-members)
