@@ -5,9 +5,11 @@
 * [Approach](#approach)
 * [Use case ideas](#use-case-ideas)
 * [Development History](#development-history)
+* [Continuous Integration](#continuous-integration)
 * [User Guide](#user-guide)
 * [More Advanced Ideas](#more-advanced-ideas)
 * [Development guide](#development-guide)
+* [Contact Us](#contact-us)
 
 ## Related URLs
 
@@ -136,6 +138,8 @@ We decided against the chat bot, because we do not have the skill to make the ch
 
 
 ## User Guide
+
+## Continuous Integration
 
 ## More Advanced Ideas
 
