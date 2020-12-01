@@ -1,4 +1,4 @@
-<img src='https://github.com/coping-with-covid/coping-with-covid/workflows/ci-meteor-application-template-react/badge.svg'>
+
 ## Table of contents
 
 * [Team Members](#team-members)
