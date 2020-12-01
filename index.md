@@ -140,7 +140,7 @@ We decided against the chat bot, because we do not have the skill to make the ch
 ## User Guide
 This section provided the guideline to show how to use our features in website
 
-###Landing page
+### Landing page
 
 This is the initial page when you get into the website, you can see our introduction of the project and some details. We also have the login and signup option, you can strt with register for an account and login.
 <img src="doc/landing.2.PNG">
