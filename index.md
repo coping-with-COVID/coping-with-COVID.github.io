@@ -8,7 +8,7 @@
 * [Continuous Integration](#continuous-integration)
 * [User Guide](#user-guide)
 * [More Advanced Ideas](#more-advanced-ideas)
-* [Development guide](#development-guide)
+* [Developer guide](#developer-guide)
 * [Contact Us](#contact-us)
 
 ## Related URLs
