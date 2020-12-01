@@ -18,9 +18,7 @@
 * [Overview](#overview)
 * [Approach](#approach)
 * [Use case ideas](#use-case-ideas)
-* [Development History](# developemtn-history)
-* [Milestone 1](#milestone-1)
-* [Milestone 2](#milestone-2)
+* [Development History](#developemtn-history)
 * [More Advanced Ideas](#more-advanced-ideas)
 * [Installation](#installation)
 
