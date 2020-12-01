@@ -141,6 +141,7 @@ We decided against the chat bot, because we do not have the skill to make the ch
 ## User Guide
 
 ## Continuous Integration
+<img src='https://github.com/coping-with-covid/coping-with-covid/workflows/ci-meteor-application-template-react/badge.svg'>
 
 ## More Advanced Ideas
 
