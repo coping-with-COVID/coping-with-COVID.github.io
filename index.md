@@ -151,7 +151,7 @@ To add a website post, click on 'Create New Post'.
 <img src="doc/addsite.JPG">
 
 To edit your website post, click on 'Edit' on your post.
-<img src="doc/editsite.jpg">
+<img src="doc/editsite.JPG">
 
 ### Forum
 
