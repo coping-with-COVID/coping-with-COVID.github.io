@@ -94,19 +94,19 @@ We decided against the chat bot, because we do not have the skill to make the ch
 <img src="doc/profile.png">
 
 - Active pages
-[Landing Page](http://143.110.232.78/#/)
+[Landing Page](https://copingwithpandemic.xyz/#/)
 <img src="doc/landingfaq.jpg">
 
-[Sign In Page](http://143.110.232.78/#/signin)
+[Sign In Page](https://copingwithpandemic.xyz/#/signin)
 <img src="doc/login.JPG">
 
-[Sign Up Page](http://143.110.232.78/#/signup)
+[Sign Up Page](https://copingwithpandemic.xyz/#/signup)
 <img src="doc/signup.JPG">
 
-[Profile Page](http://143.110.232.78/#/profile)
+[Profile Page](https://copingwithpandemic.xyz/#/profile/)
 <img src="doc/profilepage.JPG">
 
-[Edit Profile Page](http://143.110.232.78/#/profile)
+[Edit Profile Page](https://copingwithpandemic.xyz/#/editprofile/)
 <img src="doc/editprofile.JPG">
 
 ### Milestone 2
