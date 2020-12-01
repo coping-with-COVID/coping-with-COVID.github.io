@@ -19,8 +19,9 @@
 * [Approach](#approach)
 * [Use case ideas](#use-case-ideas)
 * [Development History](#development-history)
+* [User Giude](#user-guide)
 * [More Advanced Ideas](#more-advanced-ideas)
-* [Installation](#installation)
+* [Development guide](#development-guide)
 
 ## Team Members
 
@@ -121,7 +122,8 @@ We are unsure how this can be implemented but down below is ideas we hope can im
     - Ex: Mood Tracker, but there can be a calender will user can see logged mood.
 
 ## Developer Guide
-- Installation
+
+### Installation
 
 First, install [Meteor](https://www.meteor.com/install).
 
