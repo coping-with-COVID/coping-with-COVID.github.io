@@ -3,4 +3,3 @@ theme: jekyll-theme-slate
 github:
   is_project_page: true
   repository_url: 'https://github.com/coping-with-covid/coping-with-covid'
-badge: <img src='https://github.com/coping-with-covid/coping-with-covid/workflows/ci-meteor-application-template-react/badge.svg'>
