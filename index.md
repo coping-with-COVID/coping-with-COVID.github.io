@@ -128,3 +128,17 @@ Once the libraries are installed, you can run the app by invoking:
 The first time you run the app, it will create some default users and profiles.
 You can safely ignore the bcrypt warning.
 If all goes well, Coping with COVID will appear at http://localhost:3000/. You can login using the credentials in settings.development.json, or else register a new account.
+
+## Contact Us
+- Chris Dang
+
+Email: cdang808@hawaii.edu
+- Chak Hon Lam
+
+Email: chakhon@hawaii.edu
+- Guanhong Li
+
+Email: guanhong@hawaii.edu
+- Li Liang
+
+Email: liangli@hawaii.edu
