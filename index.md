@@ -109,6 +109,24 @@ We decided against the chat bot, because we do not have the skill to make the ch
 
 ### Milestone 2
 
+-[Lnding Page]()
+
+-[Signin Page]()
+
+-[SignUp Page]()
+
+-[Home Page]()
+
+-[Forum Page]()
+
+-[COVID-19 Website]()
+
+-[FAQ Page]()
+
+-[Profile]()
+
+-[Updata Profile]()
+
 
 ## User Guide
 
