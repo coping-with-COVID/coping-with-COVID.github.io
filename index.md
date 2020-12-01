@@ -18,9 +18,9 @@
 * [Overview](#overview)
 * [Approach](#approach)
 * [Use case ideas](#use-case-ideas)
-* [History](#History)
+* [Development History](# developemtn-history)
 * [Milestone 1](#milestone-1)
-** [Milestone 2](#milestone-2)
+* [Milestone 2](#milestone-2)
 * [More Advanced Ideas](#more-advanced-ideas)
 * [Installation](#installation)
 
@@ -53,7 +53,9 @@ We want to help students reach out during the COVID-19 pandemic and to cope with
 - The Admin goes to landing page, logs in, gets home page, can edit site and update posts.
 - User goes to landing page, logs in, get to home page and goes to Daily Discussion Page to post posts.
 
-## History
+## Development History
+
+### Inital Idea
 
 Our original idea for the site was to develop a chat bot that could chat and comfort the user.
 How the bot would work would be:
@@ -64,8 +66,6 @@ How the bot would work would be:
   - The chat bot will identify keywords students use to suggest articles or videos on how to help comfort the student better.
 
 We decided against the chat bot, because we do not have the skill to make the chat bot be interactive enough that it feels "human". The chat function would be too simple and robotic for the user to feel comfort, which defeats the purpose.
-
-## Development History
 
 ### Milestone 1
 
