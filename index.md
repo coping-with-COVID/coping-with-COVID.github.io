@@ -15,8 +15,6 @@
 
 - <a href="https://copingwithpandemic.xyz/#/">Coping with COVID Landing page</a>
 
-- <a href="https://github.com/coping-with-covid">GitHub organization for the project</a>
-
 - <a href="https://github.com/coping-with-covid/coping-with-covid/projects/1">Milestone 1 page</a>
 
 - <a href="https://github.com/coping-with-covid/coping-with-covid/projects/3">Milestone 2 page</a>
@@ -54,7 +52,7 @@ We want to help students reach out during the COVID-19 pandemic and to cope with
 
 ## Development History
 
-### Inital Idea
+### Initial Idea
 
 Our original idea for the site was to develop a chat bot that could chat and comfort the user.
 How the bot would work would be:
@@ -81,82 +79,89 @@ We decided against the chat bot, because we do not have the skill to make the ch
 <img src="doc/2.PNG">
 
 - Mockup pages
-<img src="doc/7.png">
-
-<img src="doc/4.png">
-
-<img src="doc/5.png">
-
-<img src="doc/6.png">
-
-<img src="doc/profile.png">
 
 - Active pages
 [Landing Page](https://copingwithpandemic.xyz/#/)
-<img src="doc/landingfaq.jpg">
 
 [Sign In Page](https://copingwithpandemic.xyz/#/signin)
-<img src="doc/login.JPG">
 
 [Sign Up Page](https://copingwithpandemic.xyz/#/signup)
-<img src="doc/signup.JPG">
 
 [Profile Page](https://copingwithpandemic.xyz/#/profile/)
-<img src="doc/profilepage.JPG">
 
 [Edit Profile Page](https://copingwithpandemic.xyz/#/editprofile/)
-<img src="doc/editprofile.JPG">
 
 ### Milestone 2
 
 - [Landing Page](https://copingwithpandemic.xyz/#/)
-<img src="doc/landing.2.PNG">
 
 - [Signin Page](https://copingwithpandemic.xyz/#/signin)
-<img src="doc/login.2.PNG">
 
 - [SignUp Page](https://copingwithpandemic.xyz/#/signup)
-<img src="doc/signup.2.PNG">
 
-- [Home Page]()
+- [Home Page](https://copingwithpandemic.xyz/#/home)
 
-- [Forum Page]()
+- [Websites Page](https://copingwithpandemic.xyz/#/websites)
 
-- [COVID-19 Website](https://copingwithpandemic.xyz/#/websites)
-<img src="doc/web.2.PNG">
+- [Add Website](https://copingwithpandemic.xyz/#/addsite)
 
-- [FAQ Page]()
+- [Edit Website](https://copingwithpandemic.xyz/#/editsite/)
 
+- [FAQ Page](https://copingwithpandemic.xyz/#/about)
 
-- [Profile](https://copingwithpandemic.xyz/#/profile/)
-<img src="doc/profile.2.PNG">
+- [Profile](https://copingwithpandemic.xyz/#/profile/Sg2vf2YfpyrvXyQu6)
 
-- [Updata Profile](https://copingwithpandemic.xyz/#/editprofile/)
-<img src="doc/updata.2.PNG">
-
+- [Update Profile](https://copingwithpandemic.xyz/#/editprofile/)
 
 ## User Guide
 This section provided the guideline to show how to use our features in website
 
 ### Landing page
 
-This is the initial page when you get into the website, you can see our introduction of the project and some details. We also have the login and signup option, you can strt with register for an account and login.
-<img src="doc/landing.2.PNG">
+This is the initial page when you get into the website, you can see our introduction of the project and some details. We also have the login and signup option, you can start with register for an account and login.
+<img src="doc/landing_2.jpg">
 
 ### Login and Signup
 
-Click the Register buttom in the home page if you don't have an account in the webasite. You will need to enter your name, email address and the password you want for registering this account.
+Click the Register button in the home page if you don't have an account yet. You will need to enter your name, email address and the password to register for an account.
 <img src="doc/signup.2.PNG">
 
-Alternatively, you can select “Login” to go to the following page and log in to your old and new account
+Alternatively, you can select “Login” to go to the following page and log in to your account.
 <img src="doc/login.2.PNG">
 
-### Home page 
+### Home page
 
 After logging in, you are taken to the home page.
+<img src="doc/home.JPG">
 
-#### Forum
+### Profile Page
 
+You can view your profile page after logging in. The page contains your info and all your posts (to be implemented in M3).
+<img src="doc/profilepage.JPG">
+
+You can update your profile by clicking 'Update Info'.
+<img src="doc/editprofile.jpg">
+
+### Websites Page
+
+You can view the websites forum page after logging in. The page contains website posts related to COVID & student health from users. You can sort posts by date or likes (to be implemented in M3). Clicking on the post title will bring you to the linked website. Clicking on the user will bring you to their profile page. You can add a comment to each post by clicking 'Submit'. The comment will also contain a link to your profile page.
+<img src="doc/websitespage.jpg">
+
+To add a website post, click on 'Create New Post'.
+<img src="doc/addsite.JPG">
+
+To edit your website post, click on 'Edit' on your post.
+<img src="doc/editsite.jpg">
+
+### Forum
+
+To be implemented in M3...
+Page mockup:
+<img src="doc/forums.png">
+
+### About Us Page
+
+<img src="doc/about.jpg">
 
 ## More Advanced Ideas
 
