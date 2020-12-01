@@ -20,7 +20,7 @@
 * [Use case ideas](#use-case-ideas)
 * [History](#History)
 * [Milestone 1](#milestone-1)
-* [Milestone 2](#milestone-2)
+** [Milestone 2](#milestone-2)
 * [More Advanced Ideas](#more-advanced-ideas)
 * [Installation](#installation)
 
