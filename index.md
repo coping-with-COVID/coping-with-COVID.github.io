@@ -65,7 +65,9 @@ How the bot would work would be:
 
 We decided against the chat bot, because we do not have the skill to make the chat bot be interactive enough that it feels "human". The chat function would be too simple and robotic for the user to feel comfort, which defeats the purpose.
 
-## Milestone 1
+## Development History
+
+### Milestone 1
 
 - Deployed project to digit ocean
 <img src="doc/1.PNG">
@@ -106,7 +108,7 @@ We decided against the chat bot, because we do not have the skill to make the ch
 [Edit Profile Page](http://143.110.232.78/#/profile)
 <img src="doc/editprofile.JPG">
 
-## Milestone 2
+### Milestone 2
 
 
 ## User Giude
