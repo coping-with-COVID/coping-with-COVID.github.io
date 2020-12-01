@@ -1,3 +1,14 @@
+## Table of contents
+
+* [Team Members](#team-members)
+* [Overview](#overview)
+* [Approach](#approach)
+* [Use case ideas](#use-case-ideas)
+* [Development History](#development-history)
+* [User Guide](#user-guide)
+* [More Advanced Ideas](#more-advanced-ideas)
+* [Development guide](#development-guide)
+
 ## Related URLs
 
 - <a href="https://copingwithpandemic.xyz/#/">Deployment of the project</a>
@@ -11,17 +22,6 @@
 - <a href="https://github.com/coping-with-covid/coping-with-covid/projects/3">Milestone 2 page</a>
 
 - <a href="https://github.com/coping-with-covid/coping-with-covid/projects/4">Milestone 3 page</a>
-
-## Table of contents
-
-* [Team Members](#team-members)
-* [Overview](#overview)
-* [Approach](#approach)
-* [Use case ideas](#use-case-ideas)
-* [Development History](#development-history)
-* [User Guide](#user-guide)
-* [More Advanced Ideas](#more-advanced-ideas)
-* [Development guide](#development-guide)
 
 ## Team Members
 
