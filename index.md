@@ -110,22 +110,29 @@ We decided against the chat bot, because we do not have the skill to make the ch
 ### Milestone 2
 
 - [Lnding Page]()
+<img src="doc/landing.2.PNG">
 
 - [Signin Page]()
+<img src="doc/login.2.PNG">
 
 - [SignUp Page]()
+<img src="doc/signup.2.PNG">
 
 - [Home Page]()
 
 - [Forum Page]()
 
 - [COVID-19 Website]()
+<img src="doc/web.2.PNG">
 
 - [FAQ Page]()
+<img src="doc/FAQ.2.PNG">
 
 - [Profile]()
+<img src="doc/profile.2.PNG">
 
 - [Updata Profile]()
+<img src="doc/updata.2.PNG">
 
 
 ## User Guide
