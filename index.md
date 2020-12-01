@@ -20,6 +20,7 @@
 * [Use case ideas](#use-case-ideas)
 * [History](#History)
 * [Milestone 1](#milestone-1)
+* [Milestone 2](#milestone-2)
 * [More Advanced Ideas](#more-advanced-ideas)
 * [Installation](#installation)
 
@@ -104,6 +105,8 @@ We decided against the chat bot, because we do not have the skill to make the ch
 
 [Edit Profile Page](http://143.110.232.78/#/profile)
 <img src="doc/editprofile.JPG">
+
+## Milestone 2
 
 ## More Advanced Ideas
 
