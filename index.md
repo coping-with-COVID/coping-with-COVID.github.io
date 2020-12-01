@@ -19,7 +19,7 @@
 * [Approach](#approach)
 * [Use case ideas](#use-case-ideas)
 * [Development History](#development-history)
-* [User Giude](#user-guide)
+* [User Guide](#user-guide)
 * [More Advanced Ideas](#more-advanced-ideas)
 * [Development guide](#development-guide)
 
@@ -110,7 +110,7 @@ We decided against the chat bot, because we do not have the skill to make the ch
 ### Milestone 2
 
 
-## User Giude
+## User Guide
 
 ## More Advanced Ideas
 
