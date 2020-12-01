@@ -109,29 +109,29 @@ We decided against the chat bot, because we do not have the skill to make the ch
 
 ### Milestone 2
 
-- [Lnding Page]()
+- [Lnding Page](https://copingwithpandemic.xyz/#/)
 <img src="doc/landing.2.PNG">
 
-- [Signin Page]()
+- [Signin Page](https://copingwithpandemic.xyz/#/signin)
 <img src="doc/login.2.PNG">
 
-- [SignUp Page]()
+- [SignUp Page](https://copingwithpandemic.xyz/#/signup)
 <img src="doc/signup.2.PNG">
 
 - [Home Page]()
 
 - [Forum Page]()
 
-- [COVID-19 Website]()
+- [COVID-19 Website](https://copingwithpandemic.xyz/#/websites)
 <img src="doc/web.2.PNG">
 
 - [FAQ Page]()
-<img src="doc/FAQ.2.PNG">
 
-- [Profile]()
+
+- [Profile](https://copingwithpandemic.xyz/#/profile/)
 <img src="doc/profile.2.PNG">
 
-- [Updata Profile]()
+- [Updata Profile](https://copingwithpandemic.xyz/#/editprofile/)
 <img src="doc/updata.2.PNG">
 
 
