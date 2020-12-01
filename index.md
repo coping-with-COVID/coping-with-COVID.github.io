@@ -116,6 +116,7 @@ We are unsure how this can be implemented but down below is ideas we hope can im
 
 ## Developer Guide
 - Installation
+
 First, install [Meteor](https://www.meteor.com/install).
 
 Second, download a copy of coping-with-covid.
