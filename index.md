@@ -13,11 +13,9 @@
 
 ## Related URLs
 
-- <a href="https://copingwithpandemic.xyz/#/">Deployment of the project</a>
+- <a href="https://copingwithpandemic.xyz/#/">Coping with COVID Landing page</a>
 
 - <a href="https://github.com/coping-with-covid">GitHub organization for the project</a>
-
-- <a href="http://143.110.232.78/#/">Coping with COVID Landing page</a>
 
 - <a href="https://github.com/coping-with-covid/coping-with-covid/projects/1">Milestone 1 page</a>
 
