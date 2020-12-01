@@ -1,6 +1,6 @@
 title: Coping with COVID
 theme: jekyll-theme-slate
-url: 'https://copingwithpandemic.xyz/'
 github:
   is_project_page: true
   repository_url: 'https://github.com/coping-with-covid/coping-with-covid'
+  url: 'https://copingwithpandemic.xyz/'
