@@ -1,4 +1,4 @@
-
+![coping-with-covid](https://github.com/coping-with-covid/coping-with-covid/workflows/coping-with-covid/badge.svg)
 ## Table of contents
 
 * [Team Members](#team-members)
