@@ -81,6 +81,7 @@ We decided against the chat bot, because we do not have the skill to make the ch
 - Mockup pages
 
 - Active pages
+
 [Landing Page](https://copingwithpandemic.xyz/#/)
 
 [Sign In Page](https://copingwithpandemic.xyz/#/signin)
