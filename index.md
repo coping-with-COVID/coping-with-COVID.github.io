@@ -1,7 +1,6 @@
 ![coping-with-covid](https://github.com/coping-with-covid/coping-with-covid/workflows/coping-with-covid/badge.svg)
 ## Table of contents
 
-* [Team Members](#team-members)
 * [Overview](#overview)
 * [Approach](#approach)
 * [Use case ideas](#use-case-ideas)
@@ -9,24 +8,7 @@
 * [User Guide](#user-guide)
 * [More Advanced Ideas](#more-advanced-ideas)
 * [Developer guide](#developer-guide)
-* [Contact Us](#contact-us)
-
-## Related URLs
-
-- <a href="https://copingwithpandemic.xyz/#/">Coping with COVID Landing page</a>
-
-- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/1">Milestone 1 page</a>
-
-- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/3">Milestone 2 page</a>
-
-- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/4">Milestone 3 page</a>
-
-## Team Members
-
-- Chris Dang
-- Chak Hon Lam
-- Guanhong Li
-- Li Liang
+* [Team Members](#team-members)
 
 ## Overview
 
@@ -64,11 +46,10 @@ How the bot would work would be:
 
 We decided against the chat bot, because we do not have the skill to make the chat bot be interactive enough that it feels "human". The chat function would be too simple and robotic for the user to feel comfort, which defeats the purpose.
 
-### Milestone 1
+### <a href="https://github.com/coping-with-covid/coping-with-covid/projects/1">Milestone 1</a>
 
 - Deployed project to digit ocean
 <img src="doc/1.PNG">
-<a href="http://143.110.232.78/#/">Coping with COVID Landing page</a>
 
 - Inspect MongoDB
 
@@ -92,7 +73,7 @@ We decided against the chat bot, because we do not have the skill to make the ch
 
 [Edit Profile Page](https://copingwithpandemic.xyz/#/editprofile/)
 
-### Milestone 2
+### <a href="https://github.com/coping-with-covid/coping-with-covid/projects/3">Milestone 2</a>
 
 - [Landing Page](https://copingwithpandemic.xyz/#/)
 
@@ -113,6 +94,8 @@ We decided against the chat bot, because we do not have the skill to make the ch
 - [Profile](https://copingwithpandemic.xyz/#/profile/Sg2vf2YfpyrvXyQu6)
 
 - [Update Profile](https://copingwithpandemic.xyz/#/editprofile/)
+
+### <a href="https://github.com/coping-with-covid/coping-with-covid/projects/5">Milestone 3</a>
 
 ## User Guide
 This section provided the guideline to show how to use our features in website
@@ -228,7 +211,18 @@ ESLint should run without generating any errors.
 It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
 
 
-## Contact Us
+## Related URLs
+
+- <a href="https://copingwithpandemic.xyz/#/">Coping with COVID Landing page</a>
+
+- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/1">Milestone 1 page</a>
+
+- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/3">Milestone 2 page</a>
+
+- <a href="https://github.com/coping-with-covid/coping-with-covid/projects/5">Milestone 3 page</a>
+
+
+## Team Members
 - Chris Dang
 
 Email: cdang808@hawaii.edu
