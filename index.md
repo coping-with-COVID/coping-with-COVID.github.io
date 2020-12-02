@@ -197,7 +197,12 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
+### Initialization
 
+To reset all the system and resore all the default data, run
+ ```
+ $ meteor reset
+ ```
 
 
 ### ESLint
@@ -213,7 +218,7 @@ Here is sample output indicating that no ESLint errors were detected:
 ```
 $ meteor npm run lint
 
-> bowfolios@ lint /Users/RayLi/github/Coping-With-Covid/app
+> Coping-With-Covid@ lint /Users/RayLi/github/Coping-With-Covid/app
 > eslint --quiet --ext .jsx --ext .js ./imports ./tests
 
 $
