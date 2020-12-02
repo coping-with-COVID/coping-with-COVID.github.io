@@ -8,7 +8,7 @@
 * [User Guide](#user-guide)
 * [More Advanced Ideas](#more-advanced-ideas)
 * [Developer guide](#developer-guide)
-* [Related URLs](#related-urls)
+* [Deployment](#deployment)
 * [Team Members](#team-members)
 
 ## Overview
@@ -212,7 +212,7 @@ ESLint should run without generating any errors.
 It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
 
 
-## Related URLs
+## Deployment
 
 - <a href="https://copingwithpandemic.xyz/#/">Coping with COVID Landing page</a>
 
