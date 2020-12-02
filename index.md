@@ -7,6 +7,7 @@
 * [Development History](#development-history)
 * [User Guide](#user-guide)
 * [More Advanced Ideas](#more-advanced-ideas)
+* [Community Feedbacks](#community-feedbacks)
 * [Developer guide](#developer-guide)
 * [Related URLs](#related-urls)
 * [Team Members](#team-members)
@@ -156,6 +157,13 @@ We are unsure how this can be implemented but down below is ideas we hope can im
   - Somehow per user have old messages saved. So user can look back at them.
   - Daily check in
     - Ex: Mood Tracker, but there can be a calender will user can see logged mood.
+    
+## Community Feedbacks
+
+Some common feedbacks from testers are:
+- Homepage feels empty
+- Not much to do on the site
+- No incentive to post and stay on the site
 
 ## Developer Guide
 
