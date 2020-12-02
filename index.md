@@ -124,7 +124,7 @@ This is the initial page when you get into the website, you can see our introduc
 
 ### Login and Signup
 
-Click the Register button in the home page if you don't have an account yet. You will need to enter your name, email address and the password to register for an account.
+Click the Register button in the home page if you don't have an account. You will need to enter your name, email address and the password to register for the registration.
 <img src="doc/signup.2.PNG">
 
 Alternatively, you can select “Login” to go to the following page and log in to your account.
@@ -203,7 +203,6 @@ To reset all the system and resore all the default data, run
  ```
  $ meteor reset
  ```
-
 
 ### ESLint
 
