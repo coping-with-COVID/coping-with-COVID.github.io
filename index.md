@@ -191,6 +191,13 @@ As an administrator, you have access to delete posts.
 <img src="doc/about.jpg">
 
 ## Community Feedback
+
+Although we had positive reviews with the application it self. Users picked up minor thinfgs we could improve on such as
+  - Deleting the note submitted pop up after posting a comment
+  - Having Learn about us in a bigger font or underlines
+  -  Adding a space between the colon and filter when shorting posts
+  - https://coping-with-covid.github.io/ <- this page should probably also be on the same page as "Learn About Us"
+  
 There’s no way around it: the world is really scary right now. As Coronavirus is sweeping the globe as a pandemic, we’re all afraid for the health of ourselves and our loved ones. We went around and ask for a review regarding our application. Although everyone had their own opinion on the page itself regarding the page aesthetic. The most common conclusion all the reviews came up with is that they enjoy the application, even though those who are not seeking support during the time of covid deems that the application is useful as it allows users to go to a webpage where covid facts are stated. And for those seeking support they enjoy the simplicity of the page and how they could distract them self with topics such as travel. 
 
 
