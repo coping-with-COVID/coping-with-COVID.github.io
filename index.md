@@ -6,6 +6,7 @@
 * [Use case ideas](#use-case-ideas)
 * [Development History](#development-history)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [More Advanced Ideas](#more-advanced-ideas)
 * [Developer guide](#developer-guide)
 * [Deployment](#deployment)
@@ -188,6 +189,10 @@ As an administrator, you have access to delete posts.
 ### About Us Page
 
 <img src="doc/about.jpg">
+
+## Community Feedback
+There’s no way around it: the world is really scary right now. As Coronavirus is sweeping the globe as a pandemic, we’re all afraid for the health of ourselves and our loved ones. We went around and ask for a review regarding our application. Although everyone had their own opinion on the page itself regarding the page aesthetic. The most common conclusion all the reviews came up with is that they enjoy the application, even though those who are not seeking support during the time of covid deems that the application is useful as it allows users to go to a webpage where covid facts are stated. And for those seeking support they enjoy the simplicity of the page and how they could distract them self with topics such as travel. 
+
 
 ## More Advanced Ideas
 
