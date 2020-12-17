@@ -98,6 +98,35 @@ We decided against the chat bot, because we do not have the skill to make the ch
 
 ### <a href="https://github.com/coping-with-covid/coping-with-covid/projects/5">Milestone 3</a>
 
+- [Landing Page](https://copingwithpandemic.xyz/#/)
+
+- [Signin Page](https://copingwithpandemic.xyz/#/signin)
+
+- [SignUp Page](https://copingwithpandemic.xyz/#/signup)
+
+- [Home Page](https://copingwithpandemic.xyz/#/home)
+
+- [Forum Page](https://copingwithpandemic.xyz/#/websites)
+
+- [Websites Page](https://copingwithpandemic.xyz/#/websites)
+
+- [Add Post](https://copingwithpandemic.xyz/#/addsite)
+
+- [Edit Post](https://copingwithpandemic.xyz/#/editsite/)
+
+- [Edit Topic](https://copingwithpandemic.xyz/#/editsite/)
+
+- [Add Website](https://copingwithpandemic.xyz/#/addsite)
+
+- [Edit Website](https://copingwithpandemic.xyz/#/editsite/)
+
+- [FAQ Page](https://copingwithpandemic.xyz/#/about)
+
+- [Profile](https://copingwithpandemic.xyz/#/profile/Sg2vf2YfpyrvXyQu6)
+
+- [Update Profile](https://copingwithpandemic.xyz/#/editprofile/)
+
+
 ## User Guide
 This section provided the guideline to show how to use our features in website
 
