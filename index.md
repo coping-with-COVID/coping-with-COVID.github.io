@@ -110,11 +110,11 @@ We decided against the chat bot, because we do not have the skill to make the ch
 
 - [Websites Page](https://copingwithpandemic.xyz/#/websites)
 
-- [Add Post](https://copingwithpandemic.xyz/#/addsite)
+- [Add Post](https://copingwithpandemic.xyz/#/addpost)
 
-- [Edit Post](https://copingwithpandemic.xyz/#/editsite/)
+- [Edit Post](https://copingwithpandemic.xyz/#/editpost/)
 
-- [Edit Topic](https://copingwithpandemic.xyz/#/editsite/)
+- [Edit Topic](https://copingwithpandemic.xyz/#/edittopic/)
 
 - [Add Website](https://copingwithpandemic.xyz/#/addsite)
 
@@ -156,10 +156,25 @@ You can view your profile page after logging in. The page contains your info and
 You can update your profile by clicking 'Update Info'.
 <img src="doc/editprofile.jpg">
 
+### Forum Page
+
+You can view forum page after logging in. The page contain posts from users and students that related to the topic we have in the page. Student can free to share their feeling and lifes in this pages. We also set up a sorting option which can help users to find the newest and oldest post. We have comments area under each post, users can leave a comment for the post they like. The comment will also contain a link to your profile page. 
+<img src="doc/forumpage0.PNG">
+
+Too add a post, click on 'Create New Post'.
+<img src="doc/newpost.PNG">
+
+To edit your website post, click on 'Edit' on your post.
+<img src="doc/editpost.PNG">
+
+As an administrator, you have access to change the topic of the forum page by clicking on 'Edit Topic' and delete posts.
+<img src="doc/adminpost.PNG">
+<img src="doc/topic.PNG">
+
 ### Websites Page
 
-You can view the websites forum page after logging in. The page contains website posts related to COVID & student health from users. You can sort posts by date or likes (to be implemented in M3). Clicking on the post title will bring you to the linked website. Clicking on the user will bring you to their profile page. You can add a comment to each post by clicking 'Submit'. The comment will also contain a link to your profile page.
-<img src="doc/websitespage.jpg">
+You can view the websites forum page after logging in. The page contains website posts related to COVID & student health from users. You can sort posts by date or likes (to be implemented in M3). And we also have a serach bar for user to search the websites with keyword. Clicking on the post title will bring you to the linked website. Clicking on the user will bring you to their profile page. You can add a comment to each post by clicking 'Submit'. The comment will also contain a link to your profile page.
+<img src="doc/websitespage0.PNG">
 
 To add a website post, click on 'Create New Post'.
 <img src="doc/addsite.JPG">
@@ -167,11 +182,8 @@ To add a website post, click on 'Create New Post'.
 To edit your website post, click on 'Edit' on your post.
 <img src="doc/editsite.JPG">
 
-### Forum
-
-To be implemented in M3...
-Page mockup:
-<img src="doc/forums.png">
+As an administrator, you have access to delete posts.
+<img src="doc/adminwebsite.PNG">
 
 ### About Us Page
 
